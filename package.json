@@ -1,0 +1,20 @@
+{
+  "name": "sgbus-server",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahvin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:ahvin2020/sgbus-server.git"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
